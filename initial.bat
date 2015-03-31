@@ -1,16 +1,16 @@
 @echo off
 
-cinst google-chrome-x64
-cinst 1password
-cinst silverlight
-cinst adobereader
-cinst filezilla
-cinst sumatrapdf
-cinst jre8
-cinst skype
-cinst spotify
-cinst notepadplusplus
-cinst teamviewer
-cinst 7zip
+cinst google-chrome-x64 -y
+cinst 1password -y
+cinst silverlight -y
+cinst adobereader -y
+cinst filezilla -y
+cinst sumatrapdf -y
+cinst jre8 -y
+cinst skype -y
+cinst spotify -y
+cinst notepadplusplus -y
+cinst teamviewer -y
+cinst 7zip -y
 
 Install-WindowsUpdate -AcceptEula
