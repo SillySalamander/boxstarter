@@ -12,5 +12,9 @@ cinst spotify -y
 cinst notepadplusplus -y
 cinst teamviewer -y
 cinst 7zip -y
+cinst gotomeeting -y
+cinst googledrive -y
+cisnt virtualclonedrive -y
+cinst vlc -y
 
 Install-WindowsUpdate -AcceptEula

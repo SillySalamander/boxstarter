@@ -1,6 +1,6 @@
 @echo off
 
-cinst gotomeeting
-cinst googledrive
-cisnt virtualclonedrive
-cinst vlc
+cinst gotomeeting -y
+cinst googledrive -y
+cisnt virtualclonedrive -y
+cinst vlc -y
